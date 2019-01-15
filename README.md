@@ -1,4 +1,4 @@
-# 1915 - Virtual-Reality-Based-Preoperative-Surgery-Planning-System ###
+# 1915 - Virtual Reality Based Preoperative Surgery Planning System #
 
 ### Introduction  
 
