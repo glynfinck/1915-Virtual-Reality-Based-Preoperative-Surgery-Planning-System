@@ -1,5 +1,4 @@
-import vector
-import pymesh
+import py
 
-
+mesh = pymesh.load_mesh("glass cube.fbx")
 
